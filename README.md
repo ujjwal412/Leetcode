@@ -51,6 +51,7 @@ Solving Dsa  problem
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ujjwal412/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -68,4 +69,12 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ujjwal412/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ujjwal412/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
