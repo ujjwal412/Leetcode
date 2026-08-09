@@ -7,6 +7,7 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [1406-stone-game-iii](https://github.com/ujjwal412/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
@@ -32,6 +33,7 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Solving Dsa  problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
 | [1406-stone-game-iii](https://github.com/ujjwal412/Leetcode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
