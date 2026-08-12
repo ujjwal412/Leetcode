@@ -15,6 +15,7 @@ Solving Dsa  problem
 | [0918-maximum-sum-circular-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ujjwal412/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/ujjwal412/Leetcode/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -22,6 +23,7 @@ Solving Dsa  problem
 | ------- |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -98,6 +100,7 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
