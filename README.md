@@ -9,6 +9,7 @@ Solving Dsa  problem
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -21,6 +22,7 @@ Solving Dsa  problem
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -29,6 +31,7 @@ Solving Dsa  problem
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
