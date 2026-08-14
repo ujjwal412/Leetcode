@@ -27,6 +27,7 @@ Solving Dsa  problem
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ Solving Dsa  problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/ujjwal412/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Solving Dsa  problem
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
