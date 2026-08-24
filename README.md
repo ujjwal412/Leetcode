@@ -9,6 +9,7 @@ Solving Dsa  problem
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ujjwal412/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwal412/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ujjwal412/Leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -27,6 +28,7 @@ Solving Dsa  problem
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -40,6 +42,7 @@ Solving Dsa  problem
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ujjwal412/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
@@ -88,6 +91,7 @@ Solving Dsa  problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/ujjwal412/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
