@@ -29,6 +29,7 @@ Solving Dsa  problem
 | ------- |
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujjwal412/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -58,6 +59,7 @@ Solving Dsa  problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -86,6 +88,7 @@ Solving Dsa  problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/ujjwal412/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
@@ -114,6 +117,7 @@ Solving Dsa  problem
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
