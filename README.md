@@ -23,6 +23,7 @@ Solving Dsa  problem
 | [1406-stone-game-iii](https://github.com/ujjwal412/Leetcode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3169-count-days-without-meetings](https://github.com/ujjwal412/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ujjwal412/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -47,6 +48,7 @@ Solving Dsa  problem
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3169-count-days-without-meetings](https://github.com/ujjwal412/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
