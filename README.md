@@ -151,4 +151,12 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ujjwal412/Leetcode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ujjwal412/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ujjwal412/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
