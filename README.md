@@ -96,6 +96,7 @@ Solving Dsa  problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujjwal412/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
@@ -117,6 +118,7 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ujjwal412/Leetcode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujjwal412/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
