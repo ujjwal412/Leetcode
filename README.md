@@ -14,6 +14,7 @@ Solving Dsa  problem
 | [0056-merge-intervals](https://github.com/ujjwal412/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ujjwal412/Leetcode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ Solving Dsa  problem
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
 | [1406-stone-game-iii](https://github.com/ujjwal412/Leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -161,4 +163,24 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ujjwal412/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
