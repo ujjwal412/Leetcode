@@ -1,20 +1,25 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        int i = 0;
-
-        while (i+1 < s.size()) {
-            if (s[i] == s[i + 1]) {
-                s.erase(i, 2);
-
-                if (i > 0)
-                    i--;
+        int n = s.size();
+        vector<char>st;
+        string res;
+        for(int i=0; i<n; i++){
+            if(st.empty()){
+                st.push_back(s[i]);
+                continue;
             }
-            else {
-                i++;
+            if(st.back()==s[i]){
+                st.pop_back();
+                continue;
             }
+            st.push_back(s[i]);
         }
-
-        return s;
+        while(!st.empty()){
+            res.push_back(st.back());
+            st.pop_back();
+        }
+        reverse(res.begin(),res.end());
+        return res;
     }
 };
