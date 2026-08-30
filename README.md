@@ -9,6 +9,7 @@ Solving Dsa  problem
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ujjwal412/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwal412/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ujjwal412/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ujjwal412/Leetcode/tree/master/0056-merge-intervals) |
@@ -60,6 +61,7 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ujjwal412/Leetcode/tree/master/0035-search-insert-position) |
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
