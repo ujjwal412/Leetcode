@@ -9,14 +9,17 @@ public:
             words.push_back(word);
         }
 
-        string res;
-        for (int i = words.size() - 1; i >= 0; i--) {
-            res += words[i];
-            if (i != 0) {
-                res += " ";
+        reverse(words.begin(), words.end());
+
+        string ans;
+
+        for (int i = 0; i < words.size(); i++) {
+            if (i > 0) {
+                ans += " ";
             }
+            ans += words[i];
         }
 
-        return res;
+        return ans;
     }
 };
