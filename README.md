@@ -9,6 +9,7 @@ Solving Dsa  problem
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ujjwal412/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwal412/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ujjwal412/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ujjwal412/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0053-maximum-subarray) |
@@ -94,6 +95,7 @@ Solving Dsa  problem
 | [0011-container-with-most-water](https://github.com/ujjwal412/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwal412/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/ujjwal412/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
