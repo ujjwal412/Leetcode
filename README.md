@@ -23,6 +23,7 @@ Solving Dsa  problem
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujjwal412/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/ujjwal412/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ujjwal412/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/ujjwal412/Leetcode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -97,6 +98,7 @@ Solving Dsa  problem
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ujjwal412/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0986-interval-list-intersections](https://github.com/ujjwal412/Leetcode/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -194,4 +196,8 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ujjwal412/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ujjwal412/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
