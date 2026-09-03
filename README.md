@@ -41,6 +41,7 @@ Solving Dsa  problem
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujjwal412/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/ujjwal412/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwal412/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -61,6 +62,7 @@ Solving Dsa  problem
 | ------- |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ujjwal412/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Solving Dsa  problem
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujjwal412/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ujjwal412/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwal412/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
