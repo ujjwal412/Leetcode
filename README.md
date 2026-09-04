@@ -19,6 +19,7 @@ Solving Dsa  problem
 | [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ujjwal412/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ujjwal412/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -37,6 +38,7 @@ Solving Dsa  problem
 | [0049-group-anagrams](https://github.com/ujjwal412/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ujjwal412/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwal412/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ujjwal412/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal412/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -54,6 +56,7 @@ Solving Dsa  problem
 | [0056-merge-intervals](https://github.com/ujjwal412/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ujjwal412/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal412/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ujjwal412/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwal412/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/ujjwal412/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/ujjwal412/Leetcode/tree/master/3731-find-missing-elements) |
@@ -68,6 +71,7 @@ Solving Dsa  problem
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwal412/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ujjwal412/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/ujjwal412/Leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ujjwal412/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -80,6 +84,7 @@ Solving Dsa  problem
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ujjwal412/Leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/ujjwal412/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ujjwal412/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1406-stone-game-iii](https://github.com/ujjwal412/Leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
@@ -202,6 +207,7 @@ Solving Dsa  problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ujjwal412/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ujjwal412/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sweep Line
 |  |
